@@ -1,0 +1,32 @@
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.csproj.AssemblyReference.cache
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.AssemblyInfoInputs.cache
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.AssemblyInfo.cs
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.csproj.CoreCompileInputs.cache
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\BingBongBoomBox.deps.json
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\BingBongBoomBox.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\BingBongBoomBox.pdb
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\bin\Debug\netstandard2.1\Zorro.Core.Runtime.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBong.5E5433C7.Up2Date
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.dll
+C:\Users\axioulle\AppData\Roaming\Thunderstore Mod Manager\DataFolder\PEAK\profiles\pinpin nouveau passport pagination\BepInEx\plugins\DamianMQR-BingBong_BoomBox\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.pdb
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.csproj.AssemblyReference.cache
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.AssemblyInfoInputs.cache
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.AssemblyInfo.cs
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.csproj.CoreCompileInputs.cache
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBongBoomBox.pdb
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\BingBongBoomBox.deps.json
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\BingBongBoomBox.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\BingBongBoomBox.pdb
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\bin\Debug\netstandard2.1\Zorro.Core.Runtime.dll
+C:\Users\axioulle\Desktop\BingBongBoomBox-master\obj\Debug\netstandard2.1\BingBong.5E5433C7.Up2Date

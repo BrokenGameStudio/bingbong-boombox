@@ -1,0 +1,9 @@
+is_global = true
+build_property.BepInAutoPluginStripBuildMetadata = 
+build_property.RootNamespace = BingBongBoomBox
+build_property.ProjectDir = C:\Users\axioulle\Desktop\BingBongBoomBox-master\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
